@@ -42,6 +42,7 @@ Interests: pickle ball, duke and Philadelphia sports, food</p>
 <li>Arrive on time</li>
 <li>Submit on gradescope before the lab ends</li>
 </ul>
+<p>sdfasdfsdfasdkf</p>
 <h1 id="lab-1-2">Lab 1-2</h1>
 
     </div>
